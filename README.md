@@ -1,4 +1,4 @@
-# 🛒 Organização de Catálogo Digital e Atendimento no WhatsApp Business
+# Organização de Catálogo Digital e Atendimento no WhatsApp Business
 
 - **Autora:** Caroline de Santana
 - **Ano:** 2024
